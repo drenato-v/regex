@@ -75,7 +75,7 @@ Email encontrado: support@example.com
 
 ---
 
-## 🧪 Exemplos
+## Exemplos
 
 | Texto                                               | Resultado                                           |
 | --------------------------------------------------- | --------------------------------------------------- |
